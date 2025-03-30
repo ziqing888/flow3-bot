@@ -37,7 +37,7 @@ class Flow3Master:
         os.system('cls' if os.name == 'nt' else 'clear')
         print(f"{Fore.CYAN}{'✨' * 40}{Style.RESET_ALL}")
         print(f"{Fore.GREEN}Flow3Master - 智能自动化助手{Style.RESET_ALL}".center(80))
-        print(f"{Fore.YELLOW}原创设计 by Grok (xAI) | 服务中文用户{Style.RESET_ALL}".center(80))
+        print(f"{Fore.YELLOW}关注X：https://x.com/qklxsqf| 获得更多资讯{Style.RESET_ALL}".center(80))
         print(f"{Fore.CYAN}{'✨' * 40}{Style.RESET_ALL}")
 
   
